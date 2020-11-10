@@ -1,7 +1,6 @@
 name: hyper_lpr
 description: HyperLPR Flutter plugin.
 version: 0.0.1+1
-author:
 homepage: http://maxlee.xyz
 
 environment:
